@@ -15,4 +15,19 @@
 3. Класс: SubmitDataApi Метод: submit_data_retrieve Тип HTTP-запроса: GET /submitData/{id}/ Действие: Извлечение данных о перевале
 4. Класс: SubmitDataApi Метод: submit_data_user_email_list Тип HTTP-запроса: GET /submitData/user__email={email} Действие: Извлечение списка перевалов пользователя
 
+В проекте используются библиотеки:
+
+Package             Version
+------------------- -------
+asgiref             3.7.2
+Django              5.0.2
+djangorestframework 3.14.0
+pillow              10.2.0
+pip                 23.2.1
+psycopg2            2.9.9
+pytz                2024.1
+sqlparse            0.4.4
+tzdata              2024.1
+
+
 Project Link: https://github.com/LiubovO/Pereval
