@@ -25,9 +25,11 @@ djangorestframework 3.14.0
 pillow              10.2.0
 pip                 23.2.1
 psycopg2            2.9.9
+python-dotenv       1.0.1
 pytz                2024.1
 sqlparse            0.4.4
 tzdata              2024.1
+
 
 
 Project Link: https://github.com/LiubovO/Pereval
